@@ -3,7 +3,7 @@
 // This Fucnction will greet the user as soon the Home Page Loads! 
 function showGreeting() {
     alert('Welcome to the the wonderful world of Mercedes!');
-  }
+}
 
 
  // This function will validate the field for the users fullName is not empty.  

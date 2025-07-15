@@ -7,3 +7,7 @@ body {
 .card {
     margin: 0 auto; 
 }
+
+#HOME {
+    font-family: Arial, Helvetica, sans-serif;
+}
